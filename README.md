@@ -13,11 +13,11 @@ A professional Flutter portfolio application designed with a focus on **Responsi
 ## 📸 Screenshots
 
 ### 📱 Mobile Version
-![Mobile View](sc1.png)
+![Mobile View](screenshots/sc1.png)
 *Optimized vertical layout for mobile devices.*
 
 ### 💻 Tablet Version
-![Tablet View](sc2.png)
+![Tablet View](screenshots/sc2.png)
 *Enhanced grid-based layout for tablets and larger screens.*
 
 ---
