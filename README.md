@@ -1,17 +1,35 @@
-# portfolio
+# Modern Responsive Portfolio 🚀
 
-A new Flutter project.
+A professional Flutter portfolio application designed with a focus on **Responsive UI/UX**. This project demonstrates how to handle different screen sizes (Mobile & Tablet) efficiently using Flutter's layout system.
 
-## Getting Started
+## ✨ Features
+- **Adaptive Layout:** Seamlessly switches between List view (Mobile) and Grid view (Tablet).
+- **Clean Code Architecture:** Organized into `components`, `screens`, and `styles` for high maintainability.
+- **Modern UI Components:** Custom buttons, rounded cards, and professional typography.
+- **Dynamic Content:** Structured data models for projects and summary.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### 📱 Mobile Version
+![Mobile View](sc1.png)
+*Optimized vertical layout for mobile devices.*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 💻 Tablet Version
+![Tablet View](sc2.png)
+*Enhanced grid-based layout for tablets and larger screens.*
+
+---
+
+## 🛠️ Tech Stack
+- **Framework:** [Flutter](https://flutter.dev/)
+- **Language:** [Dart](https://dart.dev/)
+- **State Management:** Simple & Clean UI Logic.
+- **Icons:** Material Design Icons.
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Ziad-Yaseen/portfolio.git](https://github.com/Ziad-Yaseen/portfolio.git)
