@@ -81,3 +81,21 @@ app.*.map.json
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+
+# Windows related
+/windows/
+*.exe
+*.dll
+*.pdb
+
+# Linux related
+/linux/
+*.so
+
+# Web related
+/web/
+.wasm/
+build/web/
+
+# macOS related (Desktop)
+/macos/
